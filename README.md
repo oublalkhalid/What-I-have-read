@@ -1,5 +1,5 @@
 # 📚🧐 What I have read?
-My notes on the papers I have been reading on the time series, images, cyber from 2018-2022 (I will update this repo asap!) on the top conferences (NeurIPS, ICML, ICLR, SIGKDD, SIGIR, AAAI, IJCAI, WWW, CIKM, ICDM, WSDM, etc.)
+My notes on the papers I have been reading on the time series, images, cyber from 2018-2022 (I will update this repo asap!) on the top conferences (NeurIPS, ICML, ICLR ...)
 
 ## Papers
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
