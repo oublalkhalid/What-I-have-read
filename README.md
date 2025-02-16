@@ -1,5 +1,5 @@
 # 📚🧐 What I have read?
-My notes on papers that I've read on time series, images, cybernetics from 2018-2022  on top conferences (NeurIPS, ICML, ICLR...) [I'll update this repo asap ⌛️⌛️⌛️].
+My notes on papers that I've read on time series, deep learning, and agentic algorithms from 2021-2025  on top conferences (NeurIPS, ICML, ICLR...) [I'll update this repo asap ⌛️⌛️⌛️].
 
 ## Papers
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
